@@ -66,3 +66,5 @@ El 9 de mayo se tuvo la reunión con Erick y se llegan a los siguientes acuerdos
 + Paralelizar los datos en lugar del algoritmo. Se utilizará dask para esta tarea
 + Construir una base de datos con raw data y las salidas de la rutas
 + Desarrollar un dashboard para la visualización de las rutas
+
+* [Paper: An effective simulated annealing Algorithm for Solving the Traveling Salesman Problem](https://www.researchgate.net/publication/233584468_An_Effective_Simulated_Annealing_Algorithm_for_Solving_the_Traveling_Salesman_Problem)
