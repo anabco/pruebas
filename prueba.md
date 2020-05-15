@@ -8,7 +8,7 @@ el objetivo del problema: encontar la ruta de los colaboradores que minimice la 
 
 + Se construye el archivo con raw data que servirá para la creación de la base de datos; el layout del archivo plano es:
 
-| fza_ventas| no_cliente| lat_destino |lon_destino |id_origen | estado |lat_origen |lon_origen |
+|fza_ventas| no_cliente|lat_destino |lon_destino |id_origen | estado |lat_origen|lon_origen|
 
 + Los algoritmos a revisar son: Particule Swarm Optimizacion (PS) y Simulated Annealing (SA).
 
