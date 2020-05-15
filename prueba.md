@@ -6,9 +6,10 @@ Ruta óptima para los colaboradores de la fuerza de ventas
 El equipo 1 y 4 se reunió para definir el problema a resolver, la forma de trabajo del equipo y 
 el objetivo del problema: encontar la ruta de los colaboradores que minimice la distancia recorrida.
 
-+ Se construye el archivo con raw data que servirá para la creación de la base de datos; el layout del archivo plano es:
++ Se construye el archivo con raw data que servirá para la creación de la base de datos; el layout del archivo es:
 
 |fza_ventas| no_cliente|lat_destino |lon_destino |id_origen | estado |lat_origen|lon_origen|
+|-|-|-|-|-|-|-|-|
 
 + Los algoritmos a revisar son: Particule Swarm Optimizacion (PS) y Simulated Annealing (SA).
 
