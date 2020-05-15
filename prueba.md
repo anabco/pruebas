@@ -40,7 +40,7 @@ El objetivo principal de este milestone fue tener el desarrollo de los algoritmo
 
 El detalle de las activades realizadas por cada integrante del equipo se muestran a continuación: 
 
-Diego: entendimiento de particle swarm y replicación de un algoritmo para entendimiento de cómo se puede 
++**Diego:** entendimiento de particle swarm y replicación de un algoritmo para entendimiento de cómo se puede 
 adaptar el algoritmo al problema de travellers salesman person. El notebook con este algoritmo está disponible para su consulta en LINK.
 
 + **Lau:** entendimiento y explicación de la parte matemática del algoritmo de Particle Swarm y validación de parámetros del algoritmo 
